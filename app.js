@@ -31,3 +31,9 @@ const styles
         color: "#000"
     }
 }
+
+
+View,
+Text,
+TextInput,
+TouchableOpacity
